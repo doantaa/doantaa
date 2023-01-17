@@ -2,12 +2,12 @@
 
 <h1 align="center">🌱 <h1/>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/doantaa" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="25" />
   </a>
 
-  <summary><b>GitHub Stats</b></summary>
+  <b>GitHub Stats</b>
 <br />
 <br />
   <div>
