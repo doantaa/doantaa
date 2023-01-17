@@ -10,22 +10,22 @@
   <b>GitHub Stats</b>
 <br />
 <br />
-  <div>
+  <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doantaa&show_icons=true&locale=en&layout=compact&theme=radical" alt="doantaa" />
   </div>
 <br />
 <br /> 
-  <div>
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=radical" alt="doantaa" />
   </div>
   <br />
   <br />
-  <div>
+  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=radical" alt="doantaa" />
   </div>
   <br />
   <br />
-  <div>
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?theme=radical&username=@doantaa" alt="Wakatime"/>
   </div>
 
