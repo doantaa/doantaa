@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Doanta Ginting</h2>
+<h2>Hi 👋, I'm Doanta Ginting</h2>
 
 🌱 
 
@@ -24,7 +24,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=radical" alt="doantaa" />
   </div>
   <br />
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?theme=radical&username=@doantaa" alt="Wakatime"/>
-  </div>
 
