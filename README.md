@@ -1,7 +1,6 @@
-<h2>Hi 👋, I'm Doanta Ginting</h2>
+<h2 align="center">Hi 👋, I'm Doanta Ginting</h2>
 
 <h1 align="center">🌱 <h1/>
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/doantaa" target="blank">
