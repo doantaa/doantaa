@@ -7,7 +7,7 @@
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="25" />
   </a>
 
-  <b>GitHub Stats</b>
+  <b align="center">GitHub Stats</b>
 <br />
 <br />
   <div align="center">
