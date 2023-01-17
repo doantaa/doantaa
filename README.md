@@ -23,9 +23,6 @@
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=radical" alt="doantaa" />
   </div>
-  <br />
-  <br />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?theme=radical&username=@doantaa" alt="Wakatime"/>
-  </div>
+
+
 
