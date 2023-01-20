@@ -10,11 +10,11 @@
   <div align="center"> <b>GitHub Stats</b> </div>
 <br />
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=transparent" alt="doantaa" />
+    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=react" alt="doantaa" />
   </div>
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=transparent" alt="doantaa" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=react" alt="doantaa" />
   </div>
 
 
