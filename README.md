@@ -8,17 +8,17 @@
   </a>
 
   <div align="center"> <b>GitHub Stats</b> </div>
-<!-- <br />
+<br />
   <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doantaa&show_icons=true&locale=en&layout=compact&theme=radical" alt="doantaa" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doantaa&show_icons=true&locale=en&layout=compact&theme=react" alt="doantaa" />
   </div>
 <br />
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=radical" alt="doantaa" />
-  </div> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=react" alt="doantaa" />
+  </div>
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=radical" alt="doantaa" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=react" alt="doantaa" />
   </div>
 
 
