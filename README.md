@@ -10,15 +10,15 @@
   <div align="center"> <b>GitHub Stats</b> </div>
 <br />
   <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doantaa&show_icons=true&locale=en&layout=compact&theme=react" alt="doantaa" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doantaa&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="doantaa" />
   </div>
 <br />
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=react" alt="doantaa" />
+    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=githu_dark" alt="doantaa" />
   </div>
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=react" alt="doantaa" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&theme=github_dark" alt="doantaa" />
   </div>
 
 
