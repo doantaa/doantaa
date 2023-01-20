@@ -14,7 +14,7 @@
   </div>
 <br />
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=githu_dark" alt="doantaa" />
+    <img src="https://github-readme-stats.vercel.app/api?username=doantaa&show_icons=true&locale=en&theme=github_dark" alt="doantaa" />
   </div>
   <br />
   <div align="center">
