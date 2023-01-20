@@ -1,5 +1,5 @@
-<h1 align="center">👋</h1>
-<h1 align="center">Hi, I'm Doanta Ginting</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h2 align="center">Hi, I'm Doanta Ginting</h2>
 
 <p align="center"><a href="https://www.linkedin.com/in/doantaa" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn" height="25" align="center" /></a></p>
 <p>&nbsp;</p>
