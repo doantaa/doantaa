@@ -1,4 +1,6 @@
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> What’s crackin’?</h1>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=doantaa&amp;theme=react" alt="doantaa" /></div>
+# What's crackin’? 👋
+
+
+![Github Stats](https://camo.githubusercontent.com/2210b3dff4b3c883da1b641458fd372aeca97b60745316e457b9cff12a0a4191/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646f616e746161267468656d653d7265616374)
 
