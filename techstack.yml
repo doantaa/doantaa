@@ -1,0 +1,19 @@
+repo_name: doantaa/doantaa
+report_id: 98decf456cb352b070186120164e3a75
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-02T04:18:38+00:00'
+requested_by: doantaa
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
