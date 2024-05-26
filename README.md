@@ -1,6 +1,3 @@
 
 # What's crackin’? 👋
-
-
-![Github Stats](https://camo.githubusercontent.com/2210b3dff4b3c883da1b641458fd372aeca97b60745316e457b9cff12a0a4191/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646f616e746161267468656d653d7265616374)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=doantaa&theme=whatsapp-dark2&hide_border=true&card_width=600&hide_longest_streak=true)](https://git.io/streak-stats)
