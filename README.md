@@ -14,20 +14,18 @@ I'm a Software Engineer with a passion for Mobile & Game development especially 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow)
 
 
-### Platforms:
+
+### Tools & Platform:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-000000?logo=android&logoColor=green)
 
-
-
-### Tools:
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=blue)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-000000?style=flat-square&logo=xcode&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=yellow)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub Actions](https://img.shields.io/badge/Github_actions-000000?style=flat-square&logo=githubactions&logoColor=blue)
-
 --
+
 
 💡 **Let's collaborate and build amazing things together!** 🚀
