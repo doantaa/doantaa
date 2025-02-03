@@ -20,7 +20,7 @@ I'm a Software Engineer with a passion for Mobile & Game development especially 
 
 
 
-### Tools & Platforms:
+### Tools:
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=blue)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-000000?style=flat-square&logo=xcode&logoColor=blue)
